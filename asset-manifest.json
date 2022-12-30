@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new-year/static/css/main.a3820642.css",
+    "main.js": "/new-year/static/js/main.58631998.js",
+    "static/js/787.73546e27.chunk.js": "/new-year/static/js/787.73546e27.chunk.js",
+    "static/media/giphy.gif": "/new-year/static/media/giphy.a5336ea57febccf30540.gif",
+    "index.html": "/new-year/index.html",
+    "main.a3820642.css.map": "/new-year/static/css/main.a3820642.css.map",
+    "main.58631998.js.map": "/new-year/static/js/main.58631998.js.map",
+    "787.73546e27.chunk.js.map": "/new-year/static/js/787.73546e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3820642.css",
+    "static/js/main.58631998.js"
+  ]
+}
